@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulador de Energia Fotovoltaica
 
 Aplicacion web desarrollada con Streamlit para estimar la generacion energetica de un sistema fotovoltaico en la provincia de Santa Fe, Argentina.
@@ -32,3 +33,7 @@ streamlit run web.py
 ## Deploy
 
 Este proyecto esta pensado para desplegarse en Streamlit Community Cloud.
+=======
+# simulador-fotovoltaico-v0
+Simulador de energía fotovoltaica
+>>>>>>> e4e601a0481c94544b80db4a84d4e2d0a4e314b4
